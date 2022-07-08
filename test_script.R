@@ -1,5 +1,4 @@
-install.packages('plotrix')
-library(plotrix)
+library(plotrix,lib.loc="/tmp/Rtmpdu7ygb/downloaded_packages",warn.conflicts=FALSE)
 
 x=c(6,4,7,8,3,6,6,2,4)
 
