@@ -1,4 +1,3 @@
-install.packages("mgcv")
 library(mgcv)
 
 falldata=read.csv("falldata.csv")
